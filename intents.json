@@ -1,0 +1,154 @@
+{
+  "intents": [
+    {
+      "tag": "food",
+      "patterns": [
+        "What food options are available on campus?",
+        "Where can I eat on campus?",
+        "Are there any cafes on campus?",
+        "Where are the dining options on campus?",
+        "Is there a place to eat near AB1 or AB2?"
+      ],
+      "responses": [
+        "We have Mayuri Café and Underbelly near AB1, as well as another Mayuri Café and AB Dakshin Café near AB2.",
+        "For dining options, there are cafes like Mayuri Café and Underbelly near AB1, and AB Dakshin Café close to AB2.",
+        "Each hostel mess includes night canteens for late-night dining, and there are multiple cafés around campus like Mayuri and Underbelly."
+      ]
+    },
+    {
+      "tag": "essentials",
+      "patterns": [
+        "Where can I find daily essentials, stationery, and printing services on campus?",
+        "Is there a store for daily needs on campus?",
+        "Where can I get stationery on campus?",
+        "Can I buy daily essentials on campus?",
+        "Where is the campus store for essentials?"
+      ],
+      "responses": [
+        "For daily essentials, stationery, and printouts, you can visit Safal Mart, which is conveniently located on campus.",
+        "Safal Mart is available on campus for all your daily essentials, stationery, and printing needs.",
+        "You can get your essentials, stationery, and printing services at Safal Mart on campus."
+      ]
+    },
+    {
+      "tag": "distance",
+      "patterns": [
+        "What is the distance between the boys' hostel and AB1?",
+        "How far is the boys' hostel from AB1?",
+        "Is AB1 close to the boys' hostel?",
+        "What’s the walking distance from the boys' hostel to AB1?",
+        "How many kilometers from AB1 to the boys' hostel?"
+      ],
+      "responses": [
+        "The boys' hostel is approximately 1.6 kilometers from AB1.",
+        "It's about 1.6 kilometers from the boys' hostel to AB1.",
+        "AB1 is roughly 1.6 kilometers away from the boys' hostel."
+      ]
+    },
+    {
+      "tag": "transportation",
+      "patterns": [
+        "What transportation options are available on campus?",
+        "How can I get around campus?",
+        "Is there transportation within campus?",
+        "Can I use a bike to get around campus?",
+        "How do I move around campus easily?"
+      ],
+      "responses": [
+        "You can either walk or use a bicycle to get around campus conveniently.",
+        "Walking or cycling are the best ways to move around campus.",
+        "Campus offers convenient walkways and bike paths for easy transportation."
+      ]
+    },
+    {
+      "tag": "leave",
+      "patterns": [
+        "How can I get a leave or outing from the hostel?",
+        "What is the process for taking a leave from the hostel?",
+        "How do I get permission for an outing?",
+        "Can I get permission to leave the hostel?",
+        "What do I need to go on a leave from the hostel?"
+      ],
+      "responses": [
+        "You can get a leave or outing from the hostel with permission from your proctor.",
+        "For any leave or outing, you need to get approval from your proctor.",
+        "Permission from your proctor is required to go on a leave or outing from the hostel."
+      ]
+    },
+    {
+      "tag": "leave vs outing",
+      "patterns": [
+        "What is the difference between a leave and an outing from the hostel?",
+        "How is a leave different from an outing?",
+        "What does an outing mean in the hostel context?",
+        "Can I go for an outing without staying out overnight?",
+        "What’s the difference between leave and outing permissions?"
+      ],
+      "responses": [
+        "An outing is for a single day, allowing you to return on the same day. A leave is for more than one day, requiring an overnight stay outside the hostel.",
+        "Outings are one-day passes, while leaves allow overnight stays outside the hostel.",
+        "A leave is an extended absence, whereas an outing is a single-day pass to return on the same day."
+      ]
+    },
+    {
+      "tag": "attendance",
+      "patterns": [
+        "What is the minimum attendance required to sit for exams?",
+        "How much attendance is needed for exams?",
+        "What is the required attendance percentage for exams?",
+        "How much attendance should I maintain for exams?",
+        "Is there an attendance threshold for exams?"
+      ],
+      "responses": [
+        "The minimum attendance required to sit for exams is 75%.",
+        "You need at least 75% attendance to be eligible for exams.",
+        "To sit for exams, you must have a minimum of 75% attendance."
+      ]
+    },
+    {
+      "tag": "sports",
+      "patterns": [
+        "What are the various sports facilities provided on campus?",
+        "Are there any sports facilities on campus?",
+        "What sports can I play on campus?",
+        "Is there a gym or sports hall on campus?",
+        "Where can I play sports on campus?"
+      ],
+      "responses": [
+        "The campus offers a multipurpose hall for badminton, volleyball, basketball, and table tennis.",
+        "Sports facilities on campus include badminton courts, volleyball courts, basketball courts, and a multipurpose hall.",
+        "You can enjoy badminton, volleyball, basketball, table tennis, cricket, and football on campus."
+      ]
+    },
+    {
+      "tag": "boys hostel rooms",
+      "patterns": [
+        "What types of rooms are available in the boys' hostel?",
+        "Are there different types of rooms in the boys' hostel?",
+        "What kind of rooms does the boys' hostel have?",
+        "What are the room options in the boys' hostel?",
+        "How many beds are there in boys' hostel rooms?"
+      ],
+      "responses": [
+        "The boys' hostel offers 2-bed and 3-bed non-bunk rooms, as well as 4-bed, 6-bed, and 8-bed bunk rooms.",
+        "Room options in the boys' hostel include 2-bed, 3-bed non-bunk rooms, and 4-bed, 6-bed, and 8-bed bunk rooms.",
+        "Boys' hostel rooms range from 2-bed and 3-bed non-bunk to 4-bed, 6-bed, and 8-bed bunk configurations."
+      ]
+    },
+    {
+      "tag": "girls hostel rooms",
+      "patterns": [
+        "What types of rooms are available in the girls' hostel?",
+        "Are there different types of rooms in the girls' hostel?",
+        "What kind of rooms does the girls' hostel have?",
+        "What are the room options in the girls' hostel?",
+        "How many beds are there in girls' hostel rooms?"
+      ],
+      "responses": [
+        "The girls' hostel offers non-bunk rooms in 2-bed, 3-bed, and 4-bed configurations.",
+        "Room options in the girls' hostel include 2-bed, 3-bed, and 4-bed non-bunk configurations.",
+        "Girls' hostel rooms are available in 2-bed, 3-bed, and 4-bed non-bunk options."
+      ]
+    }
+  ]
+}
